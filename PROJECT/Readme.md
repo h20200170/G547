@@ -33,6 +33,8 @@ this may involve bit banging GPIO lines or writing to an I2C controller chip.
 ![pi-and-adxl345_bb](https://user-images.githubusercontent.com/91187838/145357740-37398451-7328-43cf-84fe-7c67c9a6c738.png)
 
 2. Setup:
+![IMG20211209153310](https://user-images.githubusercontent.com/91188439/145377816-5e507e35-4ec9-4cfd-a6e1-f8f11e8fedaa.jpg)
+
 
 # ADXL345
 ![adxl](https://user-images.githubusercontent.com/91187838/145358122-29aeb078-308e-4756-be4e-f8dad8ddb12b.jpg)
